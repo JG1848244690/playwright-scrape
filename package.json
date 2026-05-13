@@ -1,0 +1,23 @@
+{
+  "name": "playwright-scrape",
+  "version": "1.0.0",
+  "description": "A Playwright-based web scraping project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JG1848244690/playwright-scrape.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JG1848244690/playwright-scrape/issues"
+  },
+  "homepage": "https://github.com/JG1848244690/playwright-scrape#readme",
+  "dependencies": {
+    "playwright": "^1.60.0"
+  }
+}

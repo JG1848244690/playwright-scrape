@@ -1,0 +1,1682 @@
+[
+  {
+    "name": "金圣（青语）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "金圣",
+    "url": "https://www.ciggies.app/sku/3705"
+  },
+  {
+    "name": "牡丹（恒大记忆1949中支）",
+    "price": "¥28",
+    "origin": "Mainland China",
+    "brand": "牡丹",
+    "url": "https://www.ciggies.app/sku/3704"
+  },
+  {
+    "name": "牡丹（恒大蓝金中支）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "牡丹",
+    "url": "https://www.ciggies.app/sku/3703"
+  },
+  {
+    "name": "黄山（青凇中支）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "黄山",
+    "url": "https://www.ciggies.app/sku/3702"
+  },
+  {
+    "name": "泰山（金将中支）新版",
+    "price": "¥23",
+    "origin": "Mainland China",
+    "brand": "泰山",
+    "url": "https://www.ciggies.app/sku/3701"
+  },
+  {
+    "name": "云烟（孔雀细支）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3700"
+  },
+  {
+    "name": "中华（细支5mg）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "中华",
+    "url": "https://www.ciggies.app/sku/3699"
+  },
+  {
+    "name": "泰山（战神·风林火山）",
+    "price": "¥350",
+    "origin": "Mainland China",
+    "brand": "泰山",
+    "url": "https://www.ciggies.app/sku/3698"
+  },
+  {
+    "name": "七匹狼（纯境Plus）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "七匹狼",
+    "url": "https://www.ciggies.app/sku/3697"
+  },
+  {
+    "name": "黄金叶（悦尚）新版",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "黄金叶",
+    "url": "https://www.ciggies.app/sku/3696"
+  },
+  {
+    "name": "七匹狼（纯境小时光）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "七匹狼",
+    "url": "https://www.ciggies.app/sku/3695"
+  },
+  {
+    "name": "七匹狼（古田纯青细支）",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": "七匹狼",
+    "url": "https://www.ciggies.app/sku/3694"
+  },
+  {
+    "name": "七星（晶选紫玉）",
+    "price": "¥43",
+    "origin": "International",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3693"
+  },
+  {
+    "name": "七星（晶选赤玉）",
+    "price": "¥40",
+    "origin": "International",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3692"
+  },
+  {
+    "name": "云烟（中支数字孔雀）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3691"
+  },
+  {
+    "name": "双喜（经典1906中支）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3690"
+  },
+  {
+    "name": "玉溪（创客）新版",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "玉溪",
+    "url": "https://www.ciggies.app/sku/3689"
+  },
+  {
+    "name": "王冠（国粹贞观）",
+    "price": "¥1800",
+    "origin": "Mainland China",
+    "brand": "王冠",
+    "url": "https://www.ciggies.app/sku/3688"
+  },
+  {
+    "name": "王冠（假日7号）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "王冠",
+    "url": "https://www.ciggies.app/sku/3687"
+  },
+  {
+    "name": "云烟（细支醇萃）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3686"
+  },
+  {
+    "name": "好猫（长安）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "好猫",
+    "url": "https://www.ciggies.app/sku/3685"
+  },
+  {
+    "name": "云烟（中支金腰带）",
+    "price": "¥35",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3684"
+  },
+  {
+    "name": "玉溪（田园）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": "玉溪",
+    "url": "https://www.ciggies.app/sku/3683"
+  },
+  {
+    "name": "黄金叶（天香细支）",
+    "price": "¥55",
+    "origin": "Mainland China",
+    "brand": "黄金叶",
+    "url": "https://www.ciggies.app/sku/3682"
+  },
+  {
+    "name": "真龙（金韵）",
+    "price": "¥85",
+    "origin": "Mainland China",
+    "brand": "真龙",
+    "url": "https://www.ciggies.app/sku/3681"
+  },
+  {
+    "name": "一品梅（1906）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "一品梅",
+    "url": "https://www.ciggies.app/sku/3680"
+  },
+  {
+    "name": "七匹狼（金典）",
+    "price": "¥25",
+    "origin": "Mainland China",
+    "brand": "七匹狼",
+    "url": "https://www.ciggies.app/sku/3678"
+  },
+  {
+    "name": "王冠（铝2支全叶卷）",
+    "price": "¥60",
+    "origin": "Mainland China",
+    "brand": "王冠",
+    "url": "https://www.ciggies.app/sku/3677"
+  },
+  {
+    "name": "红杉树（森）",
+    "price": "¥26",
+    "origin": "Historical",
+    "brand": "红杉树",
+    "url": "https://www.ciggies.app/sku/3675"
+  },
+  {
+    "name": "小熊猫（软红世纪风）",
+    "price": "¥10",
+    "origin": "Historical",
+    "brand": "小熊猫",
+    "url": "https://www.ciggies.app/sku/3674"
+  },
+  {
+    "name": "威斯（硬炫蓝）",
+    "price": "¥11",
+    "origin": "International",
+    "brand": "威斯",
+    "url": "https://www.ciggies.app/sku/3673"
+  },
+  {
+    "name": "黄山（红方印金细支）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "黄山",
+    "url": "https://www.ciggies.app/sku/3672"
+  },
+  {
+    "name": "双喜（好日子金万象）",
+    "price": "¥32",
+    "origin": "Mainland China",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3671"
+  },
+  {
+    "name": "双喜（春天清风）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3670"
+  },
+  {
+    "name": "娇子（宽窄东坡细支）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": "娇子",
+    "url": "https://www.ciggies.app/sku/3669"
+  },
+  {
+    "name": "王冠（假日船长）",
+    "price": "¥240",
+    "origin": "Mainland China",
+    "brand": "王冠",
+    "url": "https://www.ciggies.app/sku/3668"
+  },
+  {
+    "name": "好猫（锦绣长安）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "好猫",
+    "url": "https://www.ciggies.app/sku/3667"
+  },
+  {
+    "name": "云烟（大重九·九九紫金细支）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3666"
+  },
+  {
+    "name": "真龙（刘三姐）新版",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "真龙",
+    "url": "https://www.ciggies.app/sku/3665"
+  },
+  {
+    "name": "双喜（硬红火好日子）",
+    "price": "¥21",
+    "origin": "Mainland China",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3664"
+  },
+  {
+    "name": "牡丹（玄华双中）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": "牡丹",
+    "url": "https://www.ciggies.app/sku/3663"
+  },
+  {
+    "name": "三沙（斑斓）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "三沙",
+    "url": "https://www.ciggies.app/sku/3662"
+  },
+  {
+    "name": "双喜（好日子城市之光）新版",
+    "price": "¥25",
+    "origin": "Mainland China",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3661"
+  },
+  {
+    "name": "黄鹤楼（漫天游九天）",
+    "price": "¥85",
+    "origin": "Mainland China",
+    "brand": "黄鹤楼",
+    "url": "https://www.ciggies.app/sku/3660"
+  },
+  {
+    "name": "南京（十二钗钰钗）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": "南京",
+    "url": "https://www.ciggies.app/sku/3659"
+  },
+  {
+    "name": "中华（金双中）",
+    "price": "¥60",
+    "origin": "Mainland China",
+    "brand": "中华",
+    "url": "https://www.ciggies.app/sku/3658"
+  },
+  {
+    "name": "云烟（筋斗云）",
+    "price": "¥35",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3656"
+  },
+  {
+    "name": "云烟（神秘花园）Pro版",
+    "price": "¥35",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3655"
+  },
+  {
+    "name": "黄鹤楼（1916宝相细支）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "黄鹤楼",
+    "url": "https://www.ciggies.app/sku/3654"
+  },
+  {
+    "name": "云烟（细支灵感蘑菇）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3653"
+  },
+  {
+    "name": "七匹狼（小金砖细支）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "七匹狼",
+    "url": "https://www.ciggies.app/sku/3652"
+  },
+  {
+    "name": "芙蓉王（锦绣世纪）",
+    "price": "¥80",
+    "origin": "Mainland China",
+    "brand": "芙蓉王",
+    "url": "https://www.ciggies.app/sku/3651"
+  },
+  {
+    "name": "芙蓉王（品悦细支）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "芙蓉王",
+    "url": "https://www.ciggies.app/sku/3650"
+  },
+  {
+    "name": "白沙（开心就好）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "白沙",
+    "url": "https://www.ciggies.app/sku/3649"
+  },
+  {
+    "name": "天子（天福）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "天子",
+    "url": "https://www.ciggies.app/sku/3648"
+  },
+  {
+    "name": "阿里山（印象芒果爆珠）",
+    "price": "¥15",
+    "origin": "HK · Macau · Taiwan",
+    "brand": "阿里山",
+    "url": "https://www.ciggies.app/sku/3647"
+  },
+  {
+    "name": "阿里山（印象茉莉爆珠）",
+    "price": "¥15",
+    "origin": "HK · Macau · Taiwan",
+    "brand": "阿里山",
+    "url": "https://www.ciggies.app/sku/3646"
+  },
+  {
+    "name": "双喜（春天幻影）",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3645"
+  },
+  {
+    "name": "牡丹（恒大硬中支）",
+    "price": "¥23",
+    "origin": "Mainland China",
+    "brand": "牡丹",
+    "url": "https://www.ciggies.app/sku/3644"
+  },
+  {
+    "name": "长白山（新圣境）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "长白山",
+    "url": "https://www.ciggies.app/sku/3643"
+  },
+  {
+    "name": "芙蓉王（绽放细支）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": "芙蓉王",
+    "url": "https://www.ciggies.app/sku/3642"
+  },
+  {
+    "name": "牡丹（蓝彩细支）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "牡丹",
+    "url": "https://www.ciggies.app/sku/3641"
+  },
+  {
+    "name": "七匹狼（古田新光芒）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "七匹狼",
+    "url": "https://www.ciggies.app/sku/3640"
+  },
+  {
+    "name": "南京（大观园草本）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": "南京",
+    "url": "https://www.ciggies.app/sku/3639"
+  },
+  {
+    "name": "双喜（春天白月光）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3638"
+  },
+  {
+    "name": "利群（阳光细支）",
+    "price": "¥36",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3637"
+  },
+  {
+    "name": "云烟（雪域中支）",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3636"
+  },
+  {
+    "name": "黄山（徽商3mg）",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": "黄山",
+    "url": "https://www.ciggies.app/sku/3635"
+  },
+  {
+    "name": "云烟（云端细支）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3634"
+  },
+  {
+    "name": "娇子（宽窄国宝之恋细支）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "娇子",
+    "url": "https://www.ciggies.app/sku/3633"
+  },
+  {
+    "name": "七匹狼（星辰大海双细支）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": "七匹狼",
+    "url": "https://www.ciggies.app/sku/3632"
+  },
+  {
+    "name": "云烟（大重九久仰）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3631"
+  },
+  {
+    "name": "中华（细支6mg）",
+    "price": "¥60",
+    "origin": "Mainland China",
+    "brand": "中华",
+    "url": "https://www.ciggies.app/sku/3630"
+  },
+  {
+    "name": "七匹狼（观海中支）新版",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "七匹狼",
+    "url": "https://www.ciggies.app/sku/3629"
+  },
+  {
+    "name": "利群（阳光中支）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3628"
+  },
+  {
+    "name": "冬虫夏草（细支）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3627"
+  },
+  {
+    "name": "芙蓉王（匠心手作5710）",
+    "price": "¥80",
+    "origin": "Mainland China",
+    "brand": "芙蓉王",
+    "url": "https://www.ciggies.app/sku/3626"
+  },
+  {
+    "name": "真龙（炫净）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "真龙",
+    "url": "https://www.ciggies.app/sku/3625"
+  },
+  {
+    "name": "真龙（冰净）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "真龙",
+    "url": "https://www.ciggies.app/sku/3624"
+  },
+  {
+    "name": "黄金叶（豫悦）",
+    "price": "¥16",
+    "origin": "Mainland China",
+    "brand": "黄金叶",
+    "url": "https://www.ciggies.app/sku/3623"
+  },
+  {
+    "name": "利群（阳光橙中支）新版",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3622"
+  },
+  {
+    "name": "万宝路（经典正红钛金版）",
+    "price": "¥30",
+    "origin": "International",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3621"
+  },
+  {
+    "name": "玉溪（金黄硬出口版）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "玉溪",
+    "url": "https://www.ciggies.app/sku/3620"
+  },
+  {
+    "name": "阿诗玛（永恒之恋）",
+    "price": "¥15",
+    "origin": "Historical",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3619"
+  },
+  {
+    "name": "阿诗玛（惊鸿）",
+    "price": "¥15",
+    "origin": "Historical",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3618"
+  },
+  {
+    "name": "牡丹（恒大天青细支）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "牡丹",
+    "url": "https://www.ciggies.app/sku/3617"
+  },
+  {
+    "name": "熊猫（经典细支）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3616"
+  },
+  {
+    "name": "利群（休闲金中支）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3615"
+  },
+  {
+    "name": "黄鹤楼（炫彩）",
+    "price": "¥90",
+    "origin": "Mainland China",
+    "brand": "黄鹤楼",
+    "url": "https://www.ciggies.app/sku/3614"
+  },
+  {
+    "name": "金圣（乐神）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "金圣",
+    "url": "https://www.ciggies.app/sku/3613"
+  },
+  {
+    "name": "兰州（星河）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3612"
+  },
+  {
+    "name": "三沙（蓝）",
+    "price": "¥18",
+    "origin": "Mainland China",
+    "brand": "三沙",
+    "url": "https://www.ciggies.app/sku/3611"
+  },
+  {
+    "name": "王冠（浪漫假日）",
+    "price": "¥1000",
+    "origin": "Mainland China",
+    "brand": "王冠",
+    "url": "https://www.ciggies.app/sku/3610"
+  },
+  {
+    "name": "黄鹤楼（3毫克）",
+    "price": "¥60",
+    "origin": "Mainland China",
+    "brand": "黄鹤楼",
+    "url": "https://www.ciggies.app/sku/3609"
+  },
+  {
+    "name": "黄鹤楼（冰咖）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "黄鹤楼",
+    "url": "https://www.ciggies.app/sku/3608"
+  },
+  {
+    "name": "白沙（长丰）",
+    "price": "¥7",
+    "origin": "Mainland China",
+    "brand": "白沙",
+    "url": "https://www.ciggies.app/sku/3607"
+  },
+  {
+    "name": "白沙（昭君）",
+    "price": "¥15",
+    "origin": "Mainland China",
+    "brand": "白沙",
+    "url": "https://www.ciggies.app/sku/3606"
+  },
+  {
+    "name": "泰山（战神黑金）",
+    "price": "¥400",
+    "origin": "Mainland China",
+    "brand": "泰山",
+    "url": "https://www.ciggies.app/sku/3605"
+  },
+  {
+    "name": "泰山（战神白金）",
+    "price": "¥1500",
+    "origin": "Mainland China",
+    "brand": "泰山",
+    "url": "https://www.ciggies.app/sku/3604"
+  },
+  {
+    "name": "泰山（战神2号）",
+    "price": "¥1440",
+    "origin": "Mainland China",
+    "brand": "泰山",
+    "url": "https://www.ciggies.app/sku/3603"
+  },
+  {
+    "name": "利群（阳光铂金细支）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3602"
+  },
+  {
+    "name": "利群（休闲银细支）",
+    "price": "¥80",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3601"
+  },
+  {
+    "name": "娇子（格调中支）",
+    "price": "¥25",
+    "origin": "Mainland China",
+    "brand": "娇子",
+    "url": "https://www.ciggies.app/sku/3600"
+  },
+  {
+    "name": "长城（盛世6号新版）",
+    "price": "¥120",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3599"
+  },
+  {
+    "name": "白沙（硬天天向上细支）",
+    "price": "¥16",
+    "origin": "Mainland China",
+    "brand": "白沙",
+    "url": "https://www.ciggies.app/sku/3598"
+  },
+  {
+    "name": "冬虫夏草（岁悦细支）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3597"
+  },
+  {
+    "name": "娇子（宽窄锦上细支）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "娇子",
+    "url": "https://www.ciggies.app/sku/3596"
+  },
+  {
+    "name": "七匹狼（1575冰抹茶）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "七匹狼",
+    "url": "https://www.ciggies.app/sku/3595"
+  },
+  {
+    "name": "云烟（中支云龙）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3594"
+  },
+  {
+    "name": "玉溪（细支缤果爆）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "玉溪",
+    "url": "https://www.ciggies.app/sku/3593"
+  },
+  {
+    "name": "黄金叶（天叶3mg）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "黄金叶",
+    "url": "https://www.ciggies.app/sku/3592"
+  },
+  {
+    "name": "中南海（冰耀细支）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3591"
+  },
+  {
+    "name": "真龙（甲天下硬）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "真龙",
+    "url": "https://www.ciggies.app/sku/3590"
+  },
+  {
+    "name": "云烟（呼伦贝尔天之韵）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3589"
+  },
+  {
+    "name": "中华（细支3mg）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "中华",
+    "url": "https://www.ciggies.app/sku/3588"
+  },
+  {
+    "name": "紫气东来（汾清香）新版",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3587"
+  },
+  {
+    "name": "长白山（心归细支）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "长白山",
+    "url": "https://www.ciggies.app/sku/3586"
+  },
+  {
+    "name": "金桥（炫影细支）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3585"
+  },
+  {
+    "name": "双喜（春天斐然）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3584"
+  },
+  {
+    "name": "双喜（喜粤）",
+    "price": "¥23",
+    "origin": "Mainland China",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3583"
+  },
+  {
+    "name": "娇子（蓝时代）新版",
+    "price": "¥6",
+    "origin": "Mainland China",
+    "brand": "娇子",
+    "url": "https://www.ciggies.app/sku/3582"
+  },
+  {
+    "name": "娇子（宽窄国宝细支）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "娇子",
+    "url": "https://www.ciggies.app/sku/3581"
+  },
+  {
+    "name": "云烟（雪莲细支1960）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3580"
+  },
+  {
+    "name": "泰山（拂光金中支）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "泰山",
+    "url": "https://www.ciggies.app/sku/3579"
+  },
+  {
+    "name": "熊猫（硬经典新版）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3578"
+  },
+  {
+    "name": "龙烟（老巴夺传呈）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3577"
+  },
+  {
+    "name": "好猫（烟火长安）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "好猫",
+    "url": "https://www.ciggies.app/sku/3576"
+  },
+  {
+    "name": "好猫（细支长乐吉祥）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "好猫",
+    "url": "https://www.ciggies.app/sku/3575"
+  },
+  {
+    "name": "南京（细支九五3mg）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "南京",
+    "url": "https://www.ciggies.app/sku/3574"
+  },
+  {
+    "name": "南京（九五新版）",
+    "price": "¥80",
+    "origin": "Mainland China",
+    "brand": "南京",
+    "url": "https://www.ciggies.app/sku/3573"
+  },
+  {
+    "name": "贵烟（魔力新版）",
+    "price": "¥45",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3572"
+  },
+  {
+    "name": "兰州（硬蓝新）",
+    "price": "¥5",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3571"
+  },
+  {
+    "name": "芙蓉王（锦绣）",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": "芙蓉王",
+    "url": "https://www.ciggies.app/sku/3570"
+  },
+  {
+    "name": "芙蓉王（绽放）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": "芙蓉王",
+    "url": "https://www.ciggies.app/sku/3569"
+  },
+  {
+    "name": "钻石（荷花小雅90mm细支）",
+    "price": "¥60",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3568"
+  },
+  {
+    "name": "芙蓉王（沁爽细支）",
+    "price": "¥35",
+    "origin": "Mainland China",
+    "brand": "芙蓉王",
+    "url": "https://www.ciggies.app/sku/3567"
+  },
+  {
+    "name": "人民大会堂（光耀）",
+    "price": "¥80",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3566"
+  },
+  {
+    "name": "王冠（冰咖mix）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "王冠",
+    "url": "https://www.ciggies.app/sku/3565"
+  },
+  {
+    "name": "双喜（春天·自在）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3564"
+  },
+  {
+    "name": "冬虫夏草（天边细支）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3563"
+  },
+  {
+    "name": "熊猫（典藏中支）",
+    "price": "¥120",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3562"
+  },
+  {
+    "name": "玉溪（合顺）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "玉溪",
+    "url": "https://www.ciggies.app/sku/3561"
+  },
+  {
+    "name": "金圣（青瓷细支）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "金圣",
+    "url": "https://www.ciggies.app/sku/3560"
+  },
+  {
+    "name": "金圣（智圣出山细支）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "金圣",
+    "url": "https://www.ciggies.app/sku/3559"
+  },
+  {
+    "name": "黄山（经典皖烟细支）",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": "黄山",
+    "url": "https://www.ciggies.app/sku/3558"
+  },
+  {
+    "name": "黄山（黄皖）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "黄山",
+    "url": "https://www.ciggies.app/sku/3557"
+  },
+  {
+    "name": "黄金叶（软天叶）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "黄金叶",
+    "url": "https://www.ciggies.app/sku/3556"
+  },
+  {
+    "name": "黄金叶（大成细支）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "黄金叶",
+    "url": "https://www.ciggies.app/sku/3555"
+  },
+  {
+    "name": "七匹狼（金砖御魁）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": "七匹狼",
+    "url": "https://www.ciggies.app/sku/3554"
+  },
+  {
+    "name": "好猫（长乐九美窄版）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "好猫",
+    "url": "https://www.ciggies.app/sku/3553"
+  },
+  {
+    "name": "红塔山（传奇细支 2024）",
+    "price": "¥18",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3552"
+  },
+  {
+    "name": "双喜（春天·咖路里）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3551"
+  },
+  {
+    "name": "牡丹（紫凤凰）",
+    "price": "¥35",
+    "origin": "Mainland China",
+    "brand": "牡丹",
+    "url": "https://www.ciggies.app/sku/3550"
+  },
+  {
+    "name": "泰山（囍悦）",
+    "price": "¥23",
+    "origin": "Mainland China",
+    "brand": "泰山",
+    "url": "https://www.ciggies.app/sku/3549"
+  },
+  {
+    "name": "钻石（84mm冬韵）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3548"
+  },
+  {
+    "name": "钻石（玫瑰细支）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3547"
+  },
+  {
+    "name": "泰山（超级战神）",
+    "price": "¥1000",
+    "origin": "Mainland China",
+    "brand": "泰山",
+    "url": "https://www.ciggies.app/sku/3546"
+  },
+  {
+    "name": "阿里山（Ace）",
+    "price": "¥13",
+    "origin": "HK · Macau · Taiwan",
+    "brand": "阿里山",
+    "url": "https://www.ciggies.app/sku/3545"
+  },
+  {
+    "name": "阿里山（Aster 6毫克）",
+    "price": "¥15",
+    "origin": "HK · Macau · Taiwan",
+    "brand": "阿里山",
+    "url": "https://www.ciggies.app/sku/3544"
+  },
+  {
+    "name": "利群（山外山）新版",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3543"
+  },
+  {
+    "name": "长城（国之韵2号）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3542"
+  },
+  {
+    "name": "长城（132迷你2号）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3541"
+  },
+  {
+    "name": "长城（132迷你3号）",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3540"
+  },
+  {
+    "name": "泰山（合悦红）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "泰山",
+    "url": "https://www.ciggies.app/sku/3539"
+  },
+  {
+    "name": "七匹狼（小金砖）",
+    "price": "¥45",
+    "origin": "Mainland China",
+    "brand": "七匹狼",
+    "url": "https://www.ciggies.app/sku/3538"
+  },
+  {
+    "name": "天子（C位MINI）",
+    "price": "¥23",
+    "origin": "Mainland China",
+    "brand": "天子",
+    "url": "https://www.ciggies.app/sku/3537"
+  },
+  {
+    "name": "云烟（细支小重九）",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3536"
+  },
+  {
+    "name": "芙蓉王（锦绣细支）",
+    "price": "¥60",
+    "origin": "Mainland China",
+    "brand": "芙蓉王",
+    "url": "https://www.ciggies.app/sku/3535"
+  },
+  {
+    "name": "白沙（瑞中支）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "白沙",
+    "url": "https://www.ciggies.app/sku/3534"
+  },
+  {
+    "name": "黄鹤楼（逍遥7号）",
+    "price": "¥170",
+    "origin": "Mainland China",
+    "brand": "黄鹤楼",
+    "url": "https://www.ciggies.app/sku/3533"
+  },
+  {
+    "name": "黄鹤楼（视界）",
+    "price": "¥56",
+    "origin": "Mainland China",
+    "brand": "黄鹤楼",
+    "url": "https://www.ciggies.app/sku/3532"
+  },
+  {
+    "name": "黄鹤楼（逍遥6号）",
+    "price": "¥1600",
+    "origin": "Mainland China",
+    "brand": "黄鹤楼",
+    "url": "https://www.ciggies.app/sku/3531"
+  },
+  {
+    "name": "黄鹤楼（逍遥5号）",
+    "price": "¥1900",
+    "origin": "Mainland China",
+    "brand": "黄鹤楼",
+    "url": "https://www.ciggies.app/sku/3530"
+  },
+  {
+    "name": "红双喜（港珠澳桥）",
+    "price": "¥50",
+    "origin": "HK · Macau · Taiwan",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3529"
+  },
+  {
+    "name": "红双喜（爱国红）",
+    "price": "¥40",
+    "origin": "HK · Macau · Taiwan",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3528"
+  },
+  {
+    "name": "延安（青春岁月）新版",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3527"
+  },
+  {
+    "name": "延安（细支）",
+    "price": "¥45",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3526"
+  },
+  {
+    "name": "长白山（老人参）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "长白山",
+    "url": "https://www.ciggies.app/sku/3525"
+  },
+  {
+    "name": "红塔山（峰中支）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3524"
+  },
+  {
+    "name": "玉溪（青绿叠波）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "玉溪",
+    "url": "https://www.ciggies.app/sku/3523"
+  },
+  {
+    "name": "南京（红楼卷新版）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": "南京",
+    "url": "https://www.ciggies.app/sku/3522"
+  },
+  {
+    "name": "利群（阳光青中支）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3521"
+  },
+  {
+    "name": "黄鹤楼（迷你冰爽）",
+    "price": "¥25",
+    "origin": "Mainland China",
+    "brand": "黄鹤楼",
+    "url": "https://www.ciggies.app/sku/3520"
+  },
+  {
+    "name": "紫气东来（鹳雀楼）",
+    "price": "¥23",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3519"
+  },
+  {
+    "name": "贵烟（山水）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3518"
+  },
+  {
+    "name": "天子（千里江山青绿中支）",
+    "price": "¥65",
+    "origin": "Mainland China",
+    "brand": "天子",
+    "url": "https://www.ciggies.app/sku/3517"
+  },
+  {
+    "name": "冬虫夏草（天边）",
+    "price": null,
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3516"
+  },
+  {
+    "name": "双喜（百年经典）新版",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3514"
+  },
+  {
+    "name": "中南海（双中支1mg）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3513"
+  },
+  {
+    "name": "白沙（和天下尊品细支）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "白沙",
+    "url": "https://www.ciggies.app/sku/3512"
+  },
+  {
+    "name": "延安（金）",
+    "price": "¥14",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3511"
+  },
+  {
+    "name": "延安（中支红韵）",
+    "price": "¥23",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3510"
+  },
+  {
+    "name": "龙烟（老巴夺传琦）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3509"
+  },
+  {
+    "name": "利群（阳光尊细支）",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3508"
+  },
+  {
+    "name": "玉溪（细支）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "玉溪",
+    "url": "https://www.ciggies.app/sku/3507"
+  },
+  {
+    "name": "长城（南海圣境）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3506"
+  },
+  {
+    "name": "长白山（心驰）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "长白山",
+    "url": "https://www.ciggies.app/sku/3504"
+  },
+  {
+    "name": "长城（盛世奇迹40周年）",
+    "price": "¥500",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3503"
+  },
+  {
+    "name": "恒大（蓝金中支）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3502"
+  },
+  {
+    "name": "金圣（智圣出山双中支）",
+    "price": "¥60",
+    "origin": "Mainland China",
+    "brand": "金圣",
+    "url": "https://www.ciggies.app/sku/3501"
+  },
+  {
+    "name": "金圣（吉品中支）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "金圣",
+    "url": "https://www.ciggies.app/sku/3500"
+  },
+  {
+    "name": "云烟（流金印象细支）",
+    "price": "¥45",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3499"
+  },
+  {
+    "name": "长城（132益川老坊3）",
+    "price": "¥540",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3498"
+  },
+  {
+    "name": "长白山（国风中支）",
+    "price": "¥23",
+    "origin": "Mainland China",
+    "brand": "长白山",
+    "url": "https://www.ciggies.app/sku/3497"
+  },
+  {
+    "name": "人民大会堂（红细支）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3496"
+  },
+  {
+    "name": "人民大会堂（硬红细支）",
+    "price": "¥16",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3495"
+  },
+  {
+    "name": "真龙（甲天下）新版",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "真龙",
+    "url": "https://www.ciggies.app/sku/3494"
+  },
+  {
+    "name": "好猫（长安印象）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "好猫",
+    "url": "https://www.ciggies.app/sku/3493"
+  },
+  {
+    "name": "兰州（硬新尚）",
+    "price": "¥14",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3492"
+  },
+  {
+    "name": "兰州（中支飞天明珠）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3491"
+  },
+  {
+    "name": "利群（西湖恋细支）",
+    "price": "¥23",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3490"
+  },
+  {
+    "name": "冬虫夏草（黄金盛世中支）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3489"
+  },
+  {
+    "name": "泰山（儒风）新版",
+    "price": "¥55",
+    "origin": "Mainland China",
+    "brand": "泰山",
+    "url": "https://www.ciggies.app/sku/3488"
+  },
+  {
+    "name": "黄山（天高云淡细支）",
+    "price": "¥80",
+    "origin": "Mainland China",
+    "brand": "黄山",
+    "url": "https://www.ciggies.app/sku/3487"
+  },
+  {
+    "name": "泰山（都市丛林）",
+    "price": "¥1500",
+    "origin": "Mainland China",
+    "brand": "泰山",
+    "url": "https://www.ciggies.app/sku/3486"
+  },
+  {
+    "name": "七匹狼（银细支）",
+    "price": "¥26",
+    "origin": "Mainland China",
+    "brand": "七匹狼",
+    "url": "https://www.ciggies.app/sku/3485"
+  },
+  {
+    "name": "黄山（皖烟中支）",
+    "price": "¥35",
+    "origin": "Mainland China",
+    "brand": "黄山",
+    "url": "https://www.ciggies.app/sku/3484"
+  },
+  {
+    "name": "云烟（中支小重九）",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3483"
+  },
+  {
+    "name": "南京（雨花石3毫克）",
+    "price": "¥65",
+    "origin": "Mainland China",
+    "brand": "南京",
+    "url": "https://www.ciggies.app/sku/3482"
+  },
+  {
+    "name": "人民大会堂（辉煌）",
+    "price": "¥23",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3481"
+  },
+  {
+    "name": "泰山（战神5号）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "泰山",
+    "url": "https://www.ciggies.app/sku/3480"
+  },
+  {
+    "name": "七匹狼（古田成功细支）",
+    "price": "¥80",
+    "origin": "Mainland China",
+    "brand": "七匹狼",
+    "url": "https://www.ciggies.app/sku/3479"
+  },
+  {
+    "name": "泰山（儒风双中支）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": "泰山",
+    "url": "https://www.ciggies.app/sku/3478"
+  },
+  {
+    "name": "云烟（大云端中支）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3476"
+  },
+  {
+    "name": "双喜（春天魅影）",
+    "price": "¥60",
+    "origin": "Mainland China",
+    "brand": "双喜",
+    "url": "https://www.ciggies.app/sku/3475"
+  },
+  {
+    "name": "玉溪（细支翡翠）",
+    "price": "¥80",
+    "origin": "Mainland China",
+    "brand": "玉溪",
+    "url": "https://www.ciggies.app/sku/3474"
+  },
+  {
+    "name": "黄山（软徽商）",
+    "price": "¥60",
+    "origin": "Mainland China",
+    "brand": "黄山",
+    "url": "https://www.ciggies.app/sku/3473"
+  },
+  {
+    "name": "娇子（宽窄1024）",
+    "price": "¥80",
+    "origin": "Mainland China",
+    "brand": "娇子",
+    "url": "https://www.ciggies.app/sku/3472"
+  },
+  {
+    "name": "中南海（双中支北京）",
+    "price": "¥40",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3471"
+  },
+  {
+    "name": "黄金叶（乐途硬）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "黄金叶",
+    "url": "https://www.ciggies.app/sku/3470"
+  },
+  {
+    "name": "玉溪（100细支钓鱼台）",
+    "price": "¥60",
+    "origin": "Mainland China",
+    "brand": "玉溪",
+    "url": "https://www.ciggies.app/sku/3469"
+  },
+  {
+    "name": "玉溪（84mm细支钓鱼台）",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": "玉溪",
+    "url": "https://www.ciggies.app/sku/3468"
+  },
+  {
+    "name": "玉溪（景泰蓝钓鱼台）",
+    "price": "¥98",
+    "origin": "Mainland China",
+    "brand": "玉溪",
+    "url": "https://www.ciggies.app/sku/3467"
+  },
+  {
+    "name": "金圣（智圣出山金中支）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": "金圣",
+    "url": "https://www.ciggies.app/sku/3466"
+  },
+  {
+    "name": "玉溪（中支钓鱼台）",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": "玉溪",
+    "url": "https://www.ciggies.app/sku/3465"
+  },
+  {
+    "name": "云烟（中支福）",
+    "price": "¥30",
+    "origin": "Mainland China",
+    "brand": "云烟",
+    "url": "https://www.ciggies.app/sku/3464"
+  },
+  {
+    "name": "苏烟（多彩中支）",
+    "price": "¥35",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3463"
+  },
+  {
+    "name": "贵烟（100）",
+    "price": "¥100",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3462"
+  },
+  {
+    "name": "黄鹤楼（迷你醇味）",
+    "price": "¥20",
+    "origin": "Mainland China",
+    "brand": "黄鹤楼",
+    "url": "https://www.ciggies.app/sku/3461"
+  },
+  {
+    "name": "紫气东来（在天）",
+    "price": "¥50",
+    "origin": "Mainland China",
+    "brand": null,
+    "url": "https://www.ciggies.app/sku/3460"
+  }
+]

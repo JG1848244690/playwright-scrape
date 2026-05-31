@@ -1,3 +1,4 @@
 node_modules/
-screenshot.png
+*.png
+*.jpg
 .DS_Store

@@ -8,7 +8,7 @@ const { chromium } = require('playwright');
   await page.goto('http://books.toscrape.com/');
 
   // 截图保存
-  await page.screenshot({ path: 'screenshot.png' });
+  await page.screenshot({ path: 'screenshots/screenshot.png' });
 
   console.log('截图已保存到 screenshot.png');
 
